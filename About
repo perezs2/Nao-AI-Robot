@@ -1,0 +1,6 @@
+Our project is programming a NAO AI Robot that operates and drives an autonomous vehicle following standard common traffic regulations. 
+
+Delegated Roles for each Team Member
+Alex - Upgrade sensory system to recognizing traffic lights, lanes, and other obstacles.
+Sean - Programming NAO using the Choregraphe language, microcontroller connections
+Shane - Responsible for designing elements for the rules of the road, such as using CAD to design and make obstacles such as a stop sign or 3 color traffic light. As well as seeing how the buttons work by turning right or left with pressing them
